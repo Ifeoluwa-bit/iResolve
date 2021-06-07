@@ -1,0 +1,136 @@
+/* main-background:#ffffff
+form-background:#00ffff
+text on form:#ff0000, #ffff00, #ff00ff
+dark blue:#00008B
+biege:#f5f5dc
+turquoise:#40e0d0
+emerald: #046307
+lime: #00ff00
+forest:#228b22
+green:008000
+*/
+
+.btn{
+    text-align: center;
+}
+
+button{
+    background-color: #ff1493;
+    color: #ffffff;
+    box-shadow: 0 5px 10px #808080;
+    padding: 5px 20px 5px 20px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.img {
+    width: 100px;
+    height: 100px;
+    top: 0;
+    left: 0;
+}
+
+/*heading styles*/
+.over-all{
+    text-align: center;
+}
+.heading{
+    color:#1a0ce7 ;
+}
+.heading-1{
+color: #40f740;
+}
+
+.sub {
+    color: #1a0ce7 ;
+    text-align: center;
+}
+
+.sub-2 {
+    color: #800020;
+    text-align: center;
+}
+
+/*form*/
+.half{
+    width: 98%;
+}
+.foem{
+   background-color: #000080;
+   color: #ffffff;
+   padding: 5px 0 0 15px;
+   margin: 2px 0 0 5px;
+}
+
+.foem-2{
+    background-color: #000080;
+    right: 100%;
+    color: #ffffff;
+    padding: 5px 0 0 15px;
+    margin: 2px 0 0 5px;
+ }
+
+ .foem-3{
+    background-color: #000080;
+    right: 100%;
+    color: #ffffff;
+    padding: 5px 0 0 15px;
+    margin: 2px 0 0 5px;
+ }
+
+ .foem-4{
+    background-color: #000080;
+    right: 100%;
+    color: #ffffff;
+    padding: 5px 0 0 15px;
+    margin: 2px 0 0 5px;
+ }
+
+ .foem-5{
+    background-color: #000080;
+    right: 100%;
+    color: #ffffff;
+    padding: 5px 0 0 15px;
+    margin: 2px 0 0 5px;
+ }
+
+ .foem-6{
+    background-color: #000080;
+    right: 100%;
+    color: #ffffff;
+    padding: 5px 0 0 15px;
+    margin: 2px 0 0 5px;
+ }
+
+ .mine{
+     text-align: center;
+     color: #000080;
+     font-weight: bold;   
+     padding-bottom: 8px; 
+ }
+
+ .nav{
+     background-color: #000080;
+     color: #ffffff;
+     width: 97%;
+     padding: 5px 0 0 15px;
+     margin: 2px 0 0 5px;
+     right: 100%;
+ }
+
+ .call{
+     color: #1a0ce7;
+ }
+ 
+ .account{
+     text-align: center;
+ }
+
+ .box{
+     box-shadow: 5px 15px #ff1493 ;
+ }
+
+ .foot{
+     padding-bottom: 10px;
+ }
+
+ 
